@@ -50,3 +50,4 @@ Opendoor one of the biggest competitors in this industry, and based on qualitati
 - [ https://www.forbes.com/sites/bernardmarr/2020/02/03/the-top-proptech-trends-6-technologies-disrupting-the-property-and-real-estate-industry/#40100584dc16]( https://www.forbes.com/sites/bernardmarr/2020/02/03/the-top-proptech-trends-6-technologies-disrupting-the-property-and-real-estate-industry/#40100584dc16)
 - [https://www.opendoor.com/reviews](https://www.opendoor.com/reviews)
 - [https://www.zillow.com/profile/knockhomes/](https://www.zillow.com/profile/knockhomes/)
+- [https://medium.com/@vincentlecamus/proptech-what-is-it-and-how-to-address-the-new-wave-of-real-estate-startups-ae9bb52fb128](https://medium.com/@vincentlecamus/proptech-what-is-it-and-how-to-address-the-new-wave-of-real-estate-startups-ae9bb52fb128)
