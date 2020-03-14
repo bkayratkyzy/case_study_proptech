@@ -1,7 +1,6 @@
 # **[Knock](https://www.knock.com/)** knocking your door.
 ---
-**Knock** is a home trading platform, 
-was founded in 2015 by Trulia 
+**Knock** is a home trading platform, founded in 2015 by Trulia 
 founding team members **Sean Black**,
 **Jamie Glenn** and **Karan Sakhuja**. The 
 main idea and purpose of the company
