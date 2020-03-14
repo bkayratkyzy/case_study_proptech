@@ -1,4 +1,4 @@
-# **[Knock](https://www.knock.com/)** knocking your door.
+# **[Knock](https://www.knock.com/)** knocking on your door.
 ---
 **Knock** is a home trading platform, founded in 2015 by Trulia 
 founding team members **Sean Black**,
@@ -19,14 +19,13 @@ And **[$400 million](https://www.housingwire.com/articles/47923-knock-raises-400
 
 
 ## Business Activities
-Knock announced their next project is to expand nationwide and develop their technology. After raising $400 million in Series B equity and debt financing it will allow them to continue growing.   
-As of 2020 Knock operates in Atlanta, GA, Charlotte, NC, Dallas-Forth Worth, TX, Phoenix, AZ, and Raleigh-Durham, NC. The company’s main customers are homebuyers that trying to get rid of their old property and find their new home for an immediate move in. Knock is the only company in the market that will let their customer to move into new home, fix their old house to make it market ready and place it for sale. This is what makes the company stand out from its competitors like Compass, Opendoor, Redfin.  
+Knock announced their next project is to expand nationwide and develop their technology. After raising $400 million in Series B equity and debt financing it will allow them to continue growing. As of 2020 Knock operates in Atlanta, GA, Charlotte, NC, Dallas-Forth Worth, TX, Phoenix, AZ, and Raleigh-Durham, NC. The company’s main customers are homebuyers that trying to get rid of their old property and find their new home for an immediate move in. Knock is the only company in the market that will let their customer to move into new home, fix their old house to make it market ready and place it for sale. This is what makes the company stand out from its competitors like Compass, Opendoor, Redfin.  
 Knock has build a lot  of data and technologies to understand market risk, what to offer on a new home and at what price sell their old home. 
 The company build data ***[Algorithms](https://www.youtube.com/watch?v=a0isjsge-Pc)*** to predict home values, days on market and price changes, so they provide customers with instant price and sell their homes faster. Knock build a mobile app (***[Inspector App](https://www.youtube.com/watch?v=a0isjsge-Pc)***), which used for home inspections to collect 200 property data points, it allows the company price houses more accurately than its competitors. 
 
 
 ## Landscape
-Knock is a **[PropTech](https://medium.com/@vincentlecamus/proptech-what-is-it-and-how-to-address-the-new-wave-of-real-estate-startups-ae9bb52fb128)** company.
+Knock is a **[PropTech](https://medium.com/@vincentlecamus/proptech-what-is-it-and-how-to-address-the-new-wave-of-real-estate-startups-ae9bb52fb128)** company.  
 PropTech (Property+Technology) is a term which refers to digital products and software that was made for the real estate industry.         
 Over the last 10 years PropTech has benefited from big data, started adopting AI and machine learning, Virtual reality, IoT, developed products and softwares.
 Digital products and softwares such as BoldLeads, Flip, NodalView, HouseCanary and etc., helps users to make smart decisions, as well as fastens work process, improves accuracy, reduce paperwork. Opendoor, Redfin Now, Compass, Flip, Rentberry, WeWork these are the examples of major PropTech Companies. 
