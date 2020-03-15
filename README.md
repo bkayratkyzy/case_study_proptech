@@ -28,7 +28,7 @@ The company build data ***[Algorithms](https://www.youtube.com/watch?v=a0isjsge-
 Knock is a **[PropTech](https://medium.com/@vincentlecamus/proptech-what-is-it-and-how-to-address-the-new-wave-of-real-estate-startups-ae9bb52fb128)** company.  
 PropTech (Property+Technology) is a term which refers to digital products and software that was made for the real estate industry.         
 Over the last 10 years PropTech has benefited from big data, started adopting AI and machine learning, Virtual reality, IoT, developed products and softwares.
-Digital products and softwares such as BoldLeads, Flip, NodalView, HouseCanary and etc., helps users to make smart decisions, as well as fastens work process, improves accuracy, reduce paperwork. Opendoor, Redfin Now, Compass, Flip, Rentberry, WeWork these are the examples of major PropTech Companies. 
+Digital products and softwares such as BoldLeads, Flip, NodalView, HouseCanary and etc., help users  make smart decisions, as well as fastens work process, improves accuracy, reduce paperwork. Opendoor, Redfin Now, Compass, Flip, Rentberry, WeWork these are the examples of major PropTech Companies. 
 
 
 ## Business impact
