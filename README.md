@@ -37,6 +37,12 @@ Companies in this industry measure their success  using quantitative and qualita
 Opendoor one of the biggest competitors in this industry, and based on qualitative metrics Knock outperforming *[Opendoor](https://www.opendoor.com/reviews)*.
 
 
+## Recommendations 
+
+Knock is a home trading company, it is expanding, providing services to homebuyers. Nowadays many people rent their homes. So, i think it would be great if Knock provided home rental services as well. The company already has tools, data, mobile apps and independent real estate agents working for them. 
+Knock uses Zillow to advertise their listings, where most other companies use it to list rental properties as well. Since Knock already gained customers trust, great reviews, it will be easy for them to get new clients for rental properties. 
+
+
 
 #### References
 - [https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/knockaway
